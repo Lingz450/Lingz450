@@ -35,6 +35,7 @@ I care about **clarity, maintainable code, great UI/UX, and delivering real resu
   ![](https://img.shields.io/badge/Prisma-111827?style=for-the-badge) 
   ![](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge) 
   ![](https://img.shields.io/badge/Firebase-111827?style=for-the-badge)
+  ![](https://img.shields.io/badge/Supabase-111827?style=for-the-badge)
 
 - **Tools and Workflow**  
   ![](https://img.shields.io/badge/Git-111827?style=for-the-badge) 
