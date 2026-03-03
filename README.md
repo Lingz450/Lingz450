@@ -12,16 +12,40 @@ I care about **clarity, maintainable code, great UI/UX, and delivering real resu
 
 ---
 
-## 🧰 Tech I use
+## 🛠 Tech I use
 
-**Languages**
-- JavaScript • TypeScript • HTML • CSS
+- **Languages**  
+  ![](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/HTML-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/CSS-111827?style=for-the-badge)
 
-**Frameworks / Libraries**
-- React • Next.js • Tailwind CSS • Node.js
+- **Frameworks and Libraries**  
+  ![](https://img.shields.io/badge/React-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Next.js-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/React%20Query-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/shadcn%20UI-111827?style=for-the-badge)
 
-**Tools**
-- Git • GitHub • VS Code • Figma • Adobe (Photoshop/Illustrator/InDesign)
+- **Backend and Data**  
+  ![](https://img.shields.io/badge/Node.js-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Express-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Prisma-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Firebase-111827?style=for-the-badge)
+
+- **Tools and Workflow**  
+  ![](https://img.shields.io/badge/Git-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/GitHub-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Figma-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Vercel-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Netlify-111827?style=for-the-badge)  
+  ![](https://img.shields.io/badge/Agile%20%2F%20ticket%20based%20workflow-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Debugging-111827?style=for-the-badge) 
+  ![](https://img.shields.io/badge/Basic%20TDD%20mindset-111827?style=for-the-badge)
 
 ---
 
