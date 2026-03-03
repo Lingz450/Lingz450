@@ -1,4 +1,4 @@
-# Hi there, I’m Abass Ibrahim 👋
+# Hi there, I’m Abass 👋
 
 **IT Support Specialist (Oil & Gas) • Full-Stack Web Developer • Web3 & Bot Creator • UI/UX + Graphic Designer**  
 📍 Lagos, Nigeria
