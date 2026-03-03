@@ -59,9 +59,10 @@ I care about **clarity, maintainable code, great UI/UX, and delivering real resu
 
 ---
 
-## 📊 GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingz450&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz450&layout=compact)
+## 📝 Blogs
+
+- Hashnode: [@ghost69](https://hashnode.com/@ghost69)  
+- Medium: [@Ghost69](https://medium.com/@Ghost69)
 
 ---
 
