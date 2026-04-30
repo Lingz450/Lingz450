@@ -1,7 +1,9 @@
-# Hi there, I'm Abass 👋
+# Hi there, I'm Abass — a.k.a Ghost 👻
 
-**Full-Stack Web Developer • IT Support Specialist (Oil & Gas) • Web3 & Bot Creator**
+**Full-Stack Developer • IT Support Specialist (Oil & Gas) • UI/UX Designer • Web3 Builder • Technical Writer**
 📍 Lagos, Nigeria · 🌍 Open to remote roles globally
+
+🔗 **Portfolio:** [abass-rho.vercel.app](https://abass-rho.vercel.app/)
 
 ---
 
@@ -110,8 +112,8 @@ I write about web development, frontend architecture, and lessons from shipping 
 
 ## 🤝 Let's connect
 
+- **Portfolio:** [abass-rho.vercel.app](https://abass-rho.vercel.app/) 👻
 - **Email:** [abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)
 - **LinkedIn:** [abass-ibrahim](https://www.linkedin.com/in/abass-ibrahim-6a5795194/)
-- **Portfolio:** [aureeo.netlify.app](https://aureeo.netlify.app/) *(replace once you ship a dedicated portfolio)*
 
 > 💼 **Currently open to remote frontend / full-stack roles** — full-time, contract, or freelance.
