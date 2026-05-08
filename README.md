@@ -3,7 +3,7 @@
 **Full-Stack Developer • IT Support Specialist (Oil & Gas) • UI/UX Designer • Web3 Builder • Technical Writer**
 📍 Lagos, Nigeria · 🌍 Open to remote roles globally
 
-🔗 **Portfolio:** [abass-rho.vercel.app](https://abass-rho.vercel.app/)
+🔗 **Portfolio:** [abassibrahim.xyz](https://abassibrahim.xyz/)
 
 ---
 
@@ -114,6 +114,6 @@ I write about web development, frontend architecture, and lessons from shipping 
 
 - **Portfolio:** [abassibrahim.xyz](https://abassibrahim.xyz/) 👻
 - **Email:** [abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)
-- **LinkedIn:** [abass-ibrahim](www.linkedin.com/in/abass-ibrahim-devv)
+- **LinkedIn:** [abass-ibrahim](https://www.linkedin.com/in/abass-ibrahim-devv/)
 
 > 💼 **Currently open to remote frontend / full-stack roles** — full-time, contract, or freelance.
