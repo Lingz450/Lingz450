@@ -76,20 +76,20 @@
       <a href="https://wearables-atelier.vercel.app">Live product</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌸 <a href="https://9thluxe-store.vercel.app">Fàdè — 9thluxe</a></h3>
-      <p>Luxury fragrance commerce experience with curated collections, drops, editorial content, and refined visual direction.</p>
-      <p><strong>Next.js · TypeScript · Tailwind CSS · shadcn/ui</strong></p>
-      <a href="https://github.com/Idansss/9thluxe-store">Source</a> ·
-      <a href="https://9thluxe-store.vercel.app">Live product</a>
+      <h3>🛢️ <a href="https://petro-brain-web.vercel.app">PetroBrain Web</a></h3>
+      <p>AI-native oil and gas intelligence interface with source-citing answers, engineering decision support, and geospatial workflows.</p>
+      <p><strong>Next.js · TypeScript · React Query · MapLibre · Neon</strong></p>
+      <a href="https://github.com/Trust-Code-System/PetroBrainWeb">Source</a> ·
+      <a href="https://petro-brain-web.vercel.app">Live product</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 <a href="https://aureo-theta.vercel.app">Aureo</a></h3>
-      <p>Trust-first hiring marketplace for verified candidate profiles and transparent employer opportunities.</p>
-      <p><strong>Next.js · TypeScript · Product design · Marketplace UX</strong></p>
-      <a href="https://github.com/Idansss/Aureo">Source</a> ·
-      <a href="https://aureo-theta.vercel.app">Live product</a>
+      <h3>🧠 <a href="https://github.com/Trust-Code-System/PetroBrain">PetroBrain</a></h3>
+      <p>Safety-first oil and gas AI backend with cited RAG, deterministic engineering calculations, and NUPRC Tier-3 MRV.</p>
+      <p><strong>Python · FastAPI · PostgreSQL · Redis · RAG</strong></p>
+      <a href="https://github.com/Trust-Code-System/PetroBrain">Source</a> ·
+      <a href="https://petro-brain-web.vercel.app">Live platform</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 <a href="https://ijoba606.vercel.app">Ijoba606</a></h3>
