@@ -28,8 +28,12 @@
   <a href="mailto:abassibrahim591@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22C55E?style=for-the-badge" alt="Open to remote roles" />
-  <img src="https://img.shields.io/badge/Available_for-Contract_Projects-FF9F1C?style=for-the-badge" alt="Available for contract projects" />
+  <a href="https://github.com/Trust-Code-System">
+    <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22C55E?style=for-the-badge" alt="Explore Trust Code System on GitHub" />
+  </a>
+  <a href="https://trustcodesystem.tech">
+    <img src="https://img.shields.io/badge/Available_for-Contract_Projects-FF9F1C?style=for-the-badge" alt="Work with Trust Code System" />
+  </a>
 </p>
 
 ---
