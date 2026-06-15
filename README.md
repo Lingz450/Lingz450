@@ -92,11 +92,11 @@
       <a href="https://petro-brain-web.vercel.app">Live platform</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://ijoba606.vercel.app">Ijoba606</a></h3>
-      <p>A polished TypeScript product focused on clear workflows, responsive interaction, and dependable user experience.</p>
-      <p><strong>Next.js · TypeScript · Tailwind CSS · Product engineering</strong></p>
-      <a href="https://github.com/Idansss/ijoba606">Source</a> ·
-      <a href="https://ijoba606.vercel.app">Live product</a>
+      <h3>🌍 <a href="https://atlas-hr-fq24.vercel.app">AtlasHR</a></h3>
+      <p>Global HR, payroll, onboarding, and AI compliance platform built for teams operating across Nigeria, India, the UK, and the US.</p>
+      <p><strong>Next.js · TypeScript · Supabase · Stripe · AI</strong></p>
+      <a href="https://github.com/Trust-Code-System/Atlas-HR">Source</a> ·
+      <a href="https://atlas-hr-fq24.vercel.app">Live product</a>
     </td>
   </tr>
 </table>
