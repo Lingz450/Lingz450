@@ -1,119 +1,176 @@
-# Hi there, I'm Abass — a.k.a Ghost 👻
+<!--
+  Profile README for github.com/Lingz450
+  Built around Abass's real projects, skills, and current work.
+-->
 
-**Full-Stack Developer • IT Support Specialist (Oil & Gas) • UI/UX Designer • Web3 Builder • Technical Writer**
-📍 Lagos, Nigeria · 🌍 Open to remote roles globally
+<div align="center">
+  <a href="https://abassibrahim.xyz">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!;I'm+Abass+Ibrahim+%E2%80%94+a.k.a+Ghost+%F0%9F%91%BB;I+build+polished+products+that+ship.;Full-Stack+%C2%B7+AI+%C2%B7+Web3+%C2%B7+Great+UI%2FUX"
+      alt="Typing introduction"
+    />
+  </a>
+</div>
 
-🔗 **Portfolio:** [abassibrahim.xyz](https://abassibrahim.xyz/)
+<h1 align="center">👨🏾‍💻 Hi, I'm Abass Ibrahim — a Full-Stack Developer from Lagos.</h1>
 
----
+<p align="center">
+  I turn ambitious ideas into fast, thoughtful, production-ready digital products.
+</p>
 
-## 👨‍💻 About me
-
-I'm a self-taught full-stack developer who builds clean, fast, and user-friendly products end-to-end. I've shipped a luxury e-commerce platform, a Nigerian fashion atelier site, a school management system with multi-portal authentication, a hiring marketplace, and a full crypto trading desk — all live, all in production.
-
-I work mostly with **React, Next.js, TypeScript, Tailwind CSS, and Node.js**, and I also build **Web3 tools and automation bots**. Alongside development, I work as an IT Support Specialist across two oil & gas companies in Lagos, where I keep critical business systems running daily.
-
-I care about **clarity, maintainable code, great UI/UX, and shipping real results**.
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 [The Thesis Desk](https://thethesisdesk.xyz/)
-A full-stack crypto trading command center with live price feeds (BTC, ETH, SOL, BNB, XRP), P&L tracking, signal review, journaling, streak accountability, and a calculator suite. Built for the 500+ member trading community I run.
-**Stack:** Next.js · TypeScript · Tailwind · Real-time market data
-
-### 💎 [Wearables Atelier](https://wearables-atelier.vercel.app/)
-Premium Nigerian womenswear e-commerce — Iro & Buba, Aso Oke, Kaftan, Boubou, Turbans & Jewellery. Editorial design with multi-category navigation, wholesale flow, and live trending products.
-**Stack:** Next.js · TypeScript · Tailwind
-
-### 🌸 [Fàdè — 9thluxe Store](https://9thluxe-store-two.vercel.app/)
-A luxury perfume e-commerce platform with curated collections, cart, drops, journal, and dark/light mode. Editorial-grade UI built mobile-first.
-**Stack:** Next.js · TypeScript · Tailwind · Shadcn UI
-
-### 🎓 [The Helping Tribe Academy](https://helpingtribeacademy.com/)
-A complete school management platform for a Counselling & Positive Psychology program. Three role-based login portals (Student, Facilitator, Admin) with separate matric-number and email auth flows, plus a public application form.
-**Stack:** Next.js · TypeScript · Tailwind · Multi-role auth
-
-### 💼 [Aureo](https://aureeo.netlify.app/)
-A trust-first hiring marketplace where candidates build verified profiles with trust scores and employers post transparent opportunities.
-**Stack:** Next.js · TypeScript · Tailwind
+<p align="center">
+  <a href="https://abassibrahim.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/abass-ibrahim-6a5795194/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abassibrahim591@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22C55E?style=for-the-badge" alt="Open to remote roles" />
+</p>
 
 ---
 
-## 🛠 Tech I use
+<img width="46%" align="right" alt="Ghost developer command center" src="./assets/ghost-lab.svg" />
 
-- **Languages**
-  ![](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/HTML-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/CSS-111827?style=for-the-badge)
+## A little about Ghost
 
-- **Frameworks and Libraries**
-  ![](https://img.shields.io/badge/React-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Next.js-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/React%20Query-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/shadcn%20UI-111827?style=for-the-badge)
+- 🔭 I ship **full-stack products**, from first wireframe to production.
+- 🤖 I'm building **AI assistants, automation systems, and intelligent dashboards**.
+- 🌱 I'm sharpening my skills in **agentic AI, scalable architecture, and product engineering**.
+- 👯 I'm open to collaborating on **SaaS, Web3, AI, and high-impact open-source tools**.
+- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, UI/UX, or shipping MVPs**.
+- 🛠️ I also work in **IT support for oil & gas operations**, keeping critical systems reliable.
+- ⚡ I care about clean interfaces, maintainable code, and products people can actually use.
+- 📫 Reach me at **[abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)**.
 
-- **Backend and Data**
-  ![](https://img.shields.io/badge/Node.js-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Express-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Prisma-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Firebase-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Supabase-111827?style=for-the-badge)
+<br clear="right" />
 
-- **Tools and Workflow**
-  ![](https://img.shields.io/badge/Git-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/GitHub-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Figma-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Canva-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Vercel-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Netlify-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Agile-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/Debugging-111827?style=for-the-badge)
-  ![](https://img.shields.io/badge/TDD%20mindset-111827?style=for-the-badge)
+## Featured builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://thethesisdesk.xyz">The Thesis Desk</a></h3>
+      <p>Real-time crypto trading command center, journal, analytics, education, and accountability for a 500+ member community.</p>
+      <p><strong>Next.js · TypeScript · PostgreSQL · Prisma · WebSockets</strong></p>
+      <a href="https://github.com/Trust-Code-System/Ghost-Trading-Academy">Source</a> ·
+      <a href="https://thethesisdesk.xyz">Live product</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://helpingtribeacademy.com">Helping Tribe Academy</a></h3>
+      <p>Multi-portal learning platform with distinct student, facilitator, and administrator experiences.</p>
+      <p><strong>Next.js · TypeScript · Tailwind CSS · Role-based auth</strong></p>
+      <a href="https://github.com/Idansss/Helping-Tribe">Source</a> ·
+      <a href="https://helpingtribeacademy.com">Live product</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💎 <a href="https://wearables-atelier.vercel.app">Wearables Atelier</a></h3>
+      <p>Premium Nigerian womenswear storefront with editorial presentation, rich collections, and wholesale flows.</p>
+      <p><strong>Next.js · TypeScript · Tailwind CSS · E-commerce</strong></p>
+      <a href="https://github.com/Idansss/Wearables-Atelier">Source</a> ·
+      <a href="https://wearables-atelier.vercel.app">Live product</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://9thluxe-store.vercel.app">Fàdè — 9thluxe</a></h3>
+      <p>Luxury fragrance commerce experience with curated collections, drops, editorial content, and refined visual direction.</p>
+      <p><strong>Next.js · TypeScript · Tailwind CSS · shadcn/ui</strong></p>
+      <a href="https://github.com/Idansss/9thluxe-store">Source</a> ·
+      <a href="https://9thluxe-store.vercel.app">Live product</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 <a href="https://aureo-theta.vercel.app">Aureo</a></h3>
+      <p>Trust-first hiring marketplace for verified candidate profiles and transparent employer opportunities.</p>
+      <p><strong>Next.js · TypeScript · Product design · Marketplace UX</strong></p>
+      <a href="https://github.com/Idansss/Aureo">Source</a> ·
+      <a href="https://aureo-theta.vercel.app">Live product</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧭 <a href="https://ijoba606.vercel.app">Ijoba606</a></h3>
+      <p>A polished TypeScript product focused on clear workflows, responsive interaction, and dependable user experience.</p>
+      <p><strong>Next.js · TypeScript · Tailwind CSS · Product engineering</strong></p>
+      <a href="https://github.com/Idansss/ijoba606">Source</a> ·
+      <a href="https://ijoba606.vercel.app">Live product</a>
+    </td>
+  </tr>
+</table>
+
+## Technologies I build with
+
+### Frontend and product
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Backend, data, and delivery
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+## GitHub pulse
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Lingz450&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=FF9F1C&border_color=30363D"
+    alt="Abass's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz450&layout=compact&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D"
+    alt="Abass's most-used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Lingz450&theme=transparent&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=FF9F1C&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"
+    alt="Abass's GitHub contribution streak"
+  />
+</p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
-## ✅ What I'm good at
-
-- Building responsive, modern UIs with React/Next.js + Tailwind
-- Turning designs into clean, reusable, accessible components
-- Full-stack auth flows (multi-role, matric-based, email-based)
-- E-commerce flows — cart, checkout, drops, collections
-- Real-time data dashboards and trading interfaces
-- UI/UX and visual design (Figma + Canva)
-- Automation and bots that save time and improve workflows
-- IT support, troubleshooting, and keeping systems running smoothly
-
----
-
-## 📊 GitHub Stats
-
-![Abass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lingz450&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz450&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📝 Writing
-
-I write about web development, frontend architecture, and lessons from shipping real products.
-
-- **Hashnode:** [@ghost69](https://hashnode.com/@ghost69)
-- **Medium:** [@Ghost69](https://medium.com/@Ghost69)
-
----
-
-## 🤝 Let's connect
-
-- **Portfolio:** [abassibrahim.xyz](https://abassibrahim.xyz/) 👻
-- **Email:** [abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)
-- **LinkedIn:** [abass-ibrahim](https://www.linkedin.com/in/abass-ibrahim-devv/)
-
-> 💼 **Currently open to remote frontend / full-stack roles** — full-time, contract, or freelance.
+<div align="center">
+  <strong>From Lagos, building for the world.</strong>
+  <br />
+  <sub>Clean code. Thoughtful design. Real products.</sub>
+</div>
