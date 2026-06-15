@@ -12,10 +12,10 @@
   </a>
 </div>
 
-<h1 align="center">👨🏾‍💻 Hi, I'm Abass Ibrahim — a Full-Stack Developer from Lagos.</h1>
+<h1 align="center">👨🏾‍💻 Hi, I'm Abass Ibrahim — a Full-Stack & AI Product Engineer.</h1>
 
 <p align="center">
-  I turn ambitious ideas into fast, thoughtful, production-ready digital products.
+  I help founders and teams turn ambitious ideas into reliable, production-ready digital products.
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22C55E?style=for-the-badge" alt="Open to remote roles" />
+  <img src="https://img.shields.io/badge/Available_for-Contract_Projects-FF9F1C?style=for-the-badge" alt="Available for contract projects" />
 </p>
 
 ---
@@ -47,6 +48,40 @@
 - 📫 Reach me at **[abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)**.
 
 <br clear="right" />
+
+## What I can help you ship
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 MVPs and SaaS products</h3>
+      <p>From product direction and interface design to authentication, payments, dashboards, APIs, databases, and deployment.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI systems and automation</h3>
+      <p>Source-citing assistants, RAG pipelines, intelligent workflows, agentic tools, and AI features grounded in real business needs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Dashboards and internal tools</h3>
+      <p>Clear, responsive interfaces that turn complex operations and data into dependable workflows for teams and customers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Product improvement</h3>
+      <p>UI/UX refinement, performance work, feature delivery, integrations, architecture cleanup, and production readiness.</p>
+    </td>
+  </tr>
+</table>
+
+## Why teams work with me
+
+- **Product-minded engineering:** I focus on the user, business goal, and maintainability, not just the ticket.
+- **End-to-end ownership:** I can take a product from early concept through design, implementation, testing, and deployment.
+- **Cross-domain experience:** My live work spans AI, oil and gas, education, HR, e-commerce, and crypto products.
+- **Built for real users:** My portfolio includes six production products and a platform supporting a **500+ member community**.
+- **Clear collaboration:** I communicate tradeoffs, document decisions, and keep delivery focused on useful outcomes.
+- **Operational perspective:** My IT support experience in oil and gas keeps reliability, security, and supportability front of mind.
 
 ## Featured builds
 
@@ -170,6 +205,17 @@
 ---
 
 <div align="center">
+  <h2>Let's build something people will use.</h2>
+  <p>
+    I'm open to remote roles, contract product builds, technical partnerships, and selected open-source collaborations.
+  </p>
+  <a href="mailto:abassibrahim591@gmail.com?subject=Let's%20work%20together">
+    <img src="https://img.shields.io/badge/Start_a_conversation-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abass" />
+  </a>
+  <a href="https://www.linkedin.com/in/abass-ibrahim-6a5795194/">
+    <img src="https://img.shields.io/badge/Discuss_an_opportunity-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abass on LinkedIn" />
+  </a>
+  <br /><br />
   <strong>From Lagos, building for the world.</strong>
   <br />
   <sub>Clean code. Thoughtful design. Real products.</sub>
