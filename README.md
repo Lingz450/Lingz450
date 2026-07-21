@@ -1,226 +1,148 @@
-<!--
-  Profile README for github.com/Lingz450
-  Built around Abass's real projects, skills, and current work.
--->
-
 <div align="center">
   <a href="https://abassibrahim.xyz">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!;I'm+Abass+Ibrahim+%E2%80%94+a.k.a+Ghost+%F0%9F%91%BB;I+build+polished+products+that+ship.;Full-Stack+%C2%B7+AI+%C2%B7+Web3+%C2%B7+Great+UI%2FUX"
-      alt="Typing introduction"
-    />
+    <img src="./assets/hero-system.svg" width="100%" alt="Abass Ibrahim — Full-Stack and AI Product Engineer, represented by an animated product systems interface" />
   </a>
 </div>
 
-<h1 align="center">👨🏾‍💻 Hi, I'm Abass Ibrahim — a Full-Stack & AI Product Engineer.</h1>
+<h1 align="center">Abass Ibrahim</h1>
 
 <p align="center">
-  I help founders and teams turn ambitious ideas into reliable, production-ready digital products.
+  <strong>Full-Stack &amp; AI Product Engineer</strong><br />
+  I design and ship intelligent software, business platforms, AI agents, commerce systems, and immersive web experiences.
 </p>
 
 <p align="center">
-  <a href="https://abassibrahim.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/abass-ibrahim-6a5795194/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abassibrahim591@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Trust-Code-System">
-    <img src="https://img.shields.io/badge/Open_to-Remote_Roles-22C55E?style=for-the-badge" alt="Explore Trust Code System on GitHub" />
-  </a>
-  <a href="https://trustcodesystem.tech">
-    <img src="https://img.shields.io/badge/Available_for-Contract_Projects-FF9F1C?style=for-the-badge" alt="Work with Trust Code System" />
-  </a>
+  Lagos, Nigeria &nbsp;·&nbsp; Co-leading
+  <a href="https://trustcodesystem.tech"><strong>TrustCode System Limited</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://abassibrahim.xyz">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Trust-Code-System">TrustCode engineering</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/abass-ibrahim-6a5795194/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:abassibrahim591@gmail.com">Email</a>
 </p>
 
 ---
 
-<img width="46%" align="right" alt="Ghost developer command center" src="./assets/ghost-lab.svg" />
-
-## A little about Ghost
-
-- 🔭 I ship **full-stack products**, from first wireframe to production.
-- 🤖 I'm building **AI assistants, automation systems, and intelligent dashboards**.
-- 🌱 I'm sharpening my skills in **agentic AI, scalable architecture, and product engineering**.
-- 👯 I'm open to collaborating on **SaaS, Web3, AI, and high-impact open-source tools**.
-- 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, UI/UX, or shipping MVPs**.
-- 🛠️ I also work in **IT support for oil & gas operations**, keeping critical systems reliable.
-- ⚡ I care about clean interfaces, maintainable code, and products people can actually use.
-- 📫 Reach me at **[abassibrahim591@gmail.com](mailto:abassibrahim591@gmail.com)**.
-
-<br clear="right" />
-
-## What I can help you ship
+## Building now
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 MVPs and SaaS products</h3>
-      <p>From product direction and interface design to authentication, payments, dashboards, APIs, databases, and deployment.</p>
+      <strong>AI workspaces and agents</strong><br />
+      Private, source-grounded assistants with retrieval, citations, memory, research, and user-controlled automation.
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI systems and automation</h3>
-      <p>Source-citing assistants, RAG pipelines, intelligent workflows, agentic tools, and AI features grounded in real business needs.</p>
+      <strong>Commerce and operations</strong><br />
+      Art-first storefronts, administration systems, inventory, payments, background jobs, and customer-facing AI.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Dashboards and internal tools</h3>
-      <p>Clear, responsive interfaces that turn complex operations and data into dependable workflows for teams and customers.</p>
+      <strong>Production business platforms</strong><br />
+      Full-stack tools for knowledge, HR, analytics, decision support, and dependable internal workflows.
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Product improvement</h3>
-      <p>UI/UX refinement, performance work, feature delivery, integrations, architecture cleanup, and production readiness.</p>
+      <strong>Immersive interfaces</strong><br />
+      High-craft product experiences using motion, 3D scenes, responsive systems, and accessible interaction design.
     </td>
   </tr>
 </table>
 
-## Why teams work with me
+<div align="center">
+  <img src="./assets/product-orbit.svg" width="100%" alt="Animated map connecting Abass's AI, platform, commerce, and immersive product capabilities" />
+</div>
 
-- **Product-minded engineering:** I focus on the user, business goal, and maintainability, not just the ticket.
-- **End-to-end ownership:** I can take a product from early concept through design, implementation, testing, and deployment.
-- **Cross-domain experience:** My live work spans AI, oil and gas, education, HR, e-commerce, and crypto products.
-- **Built for real users:** My portfolio includes six production products and a platform supporting a **500+ member community**.
-- **Clear collaboration:** I communicate tradeoffs, document decisions, and keep delivery focused on useful outcomes.
-- **Operational perspective:** My IT support experience in oil and gas keeps reliability, security, and supportability front of mind.
-
-## Featured builds
+## Flagship work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://thethesisdesk.xyz">The Thesis Desk</a></h3>
-      <p>Real-time crypto trading command center, journal, analytics, education, and accountability for a 500+ member community.</p>
-      <p><strong>Next.js · TypeScript · PostgreSQL · Prisma · WebSockets</strong></p>
-      <a href="https://github.com/Trust-Code-System/Ghost-Trading-Academy">Source</a> ·
-      <a href="https://thethesisdesk.xyz">Live product</a>
+      <h3><a href="https://aria-vert-chi.vercel.app">Aria</a></h3>
+      <p><strong>Privacy-first AI Chief of Staff and Second Brain.</strong> A source-grounded workspace for chat, knowledge, cited research, controlled memory, and report generation.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>pgvector</code> <code>RAG</code></p>
+      <p><a href="https://github.com/Trust-Code-System/Aria">Source</a> · <a href="https://aria-vert-chi.vercel.app">Live preview</a> · <strong>MVP</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://helpingtribeacademy.com">Helping Tribe Academy</a></h3>
-      <p>Multi-portal learning platform with distinct student, facilitator, and administrator experiences.</p>
-      <p><strong>Next.js · TypeScript · Tailwind CSS · Role-based auth</strong></p>
-      <a href="https://github.com/Idansss/Helping-Tribe">Source</a> ·
-      <a href="https://helpingtribeacademy.com">Live product</a>
+      <h3><a href="https://github.com/Idansss/Tai">F.A.T.U / Tai Manic Studios</a></h3>
+      <p><strong>Art-first commerce platform.</strong> A storefront, garment design studio, admin system, modular API, media pipeline, and background workers built collaboratively.</p>
+      <p><code>Next.js</code> <code>NestJS</code> <code>Prisma</code> <code>Redis</code> <code>BullMQ</code></p>
+      <p><a href="https://github.com/Idansss/Tai">Source</a> · <a href="https://tai-admin.vercel.app">Admin preview</a> · <strong>Active development</strong></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💎 <a href="https://wearables-atelier.vercel.app">Wearables Atelier</a></h3>
-      <p>Premium Nigerian womenswear storefront with editorial presentation, rich collections, and wholesale flows.</p>
-      <p><strong>Next.js · TypeScript · Tailwind CSS · E-commerce</strong></p>
-      <a href="https://github.com/Idansss/Wearables-Atelier">Source</a> ·
-      <a href="https://wearables-atelier.vercel.app">Live product</a>
+      <h3><a href="https://9thluxe-store.vercel.app">9thluxe Store</a></h3>
+      <p><strong>Editorial perfume commerce.</strong> A storefront and operational platform with admin controls, provider abstractions, checkout flows, and an AI concierge.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Commerce</code> <code>AI</code></p>
+      <p><a href="https://github.com/Trust-Code-System/9thluxe-store">Source</a> · <a href="https://9thluxe-store.vercel.app">Live preview</a> · <strong>Active development</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛢️ <a href="https://petro-brain-web.vercel.app">PetroBrain Web</a></h3>
-      <p>AI-native oil and gas intelligence interface with source-citing answers, engineering decision support, and geospatial workflows.</p>
-      <p><strong>Next.js · TypeScript · React Query · MapLibre · Neon</strong></p>
-      <a href="https://github.com/Trust-Code-System/PetroBrainWeb">Source</a> ·
-      <a href="https://petro-brain-web.vercel.app">Live product</a>
+      <h3><a href="https://petro-brain-web.vercel.app">PetroBrain</a></h3>
+      <p><strong>Source-citing AI decision support.</strong> A safety-focused RAG backend and web interface with deterministic engineering calculations and hardened operational workflows.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>RAG</code></p>
+      <p><a href="https://github.com/Trust-Code-System/PetroBrain">API</a> · <a href="https://github.com/Trust-Code-System/PetroBrainWeb">Web</a> · <a href="https://petro-brain-web.vercel.app">Live preview</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Trust-Code-System/PetroBrain">PetroBrain</a></h3>
-      <p>Safety-first oil and gas AI backend with cited RAG, deterministic engineering calculations, and NUPRC Tier-3 MRV.</p>
-      <p><strong>Python · FastAPI · PostgreSQL · Redis · RAG</strong></p>
-      <a href="https://github.com/Trust-Code-System/PetroBrain">Source</a> ·
-      <a href="https://petro-brain-web.vercel.app">Live platform</a>
+      <h3><a href="https://thethesisdesk.xyz">The Thesis Desk</a></h3>
+      <p><strong>Crypto trading command center.</strong> Real-time market workflows, journaling, analytics, education, and accountability in one focused product.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>WebSockets</code></p>
+      <p><a href="https://github.com/Trust-Code-System/Ghost-Trading-Academy">Source</a> · <a href="https://thethesisdesk.xyz">Live product</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌍 <a href="https://atlas-hr-fq24.vercel.app">AtlasHR</a></h3>
-      <p>Global HR, payroll, onboarding, and AI compliance platform built for teams operating across Nigeria, India, the UK, and the US.</p>
-      <p><strong>Next.js · TypeScript · Supabase · Stripe · AI</strong></p>
-      <a href="https://github.com/Trust-Code-System/Atlas-HR">Source</a> ·
-      <a href="https://atlas-hr-fq24.vercel.app">Live product</a>
+      <h3><a href="https://github.com/Lingz450/abass-world">Abass World</a></h3>
+      <p><strong>Immersive 3D portfolio experiment.</strong> A personal world built around real-time scenes, motion, post-processing, and stateful interaction.</p>
+      <p><code>Next.js</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Framer Motion</code></p>
+      <p><a href="https://github.com/Lingz450/abass-world">Source</a> · <strong>In development</strong></p>
     </td>
   </tr>
 </table>
 
-## Technologies I build with
+## What I bring to a product
 
-### Frontend and product
+- **AI products and intelligent workflows** — source-grounded assistants, RAG, embeddings, vector search, memory, tool integrations, and evaluation-minded delivery.
+- **Full-stack platforms** — product architecture, authentication, APIs, databases, dashboards, background workers, integrations, and deployment.
+- **Commerce and operations** — catalogues, design tools, carts, checkout, payments, inventory, admin control, and automation.
+- **Premium experience design** — responsive systems, design direction, interaction, motion, Three.js, accessibility, and interface refinement.
+- **Production readiness** — validation, secure defaults, observability, documentation, testing, and clear operational handoff.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Selected toolkit
 
-### Backend, data, and delivery
+| Area | Technologies used in current work |
+| --- | --- |
+| Product interfaces | TypeScript, React, Next.js, Tailwind CSS, Framer Motion, Three.js, React Three Fiber, Zustand, TanStack Query |
+| APIs and architecture | Node.js, NestJS, FastAPI, tRPC, REST, WebSockets, Turborepo, background workers |
+| Data and infrastructure | PostgreSQL, Supabase, Prisma, Drizzle, Redis, BullMQ, pgvector, S3-compatible storage, Docker |
+| AI systems | OpenAI, Anthropic, Vercel AI SDK, RAG, embeddings, vector search, cited assistants, agent workflows |
+| Delivery and quality | GitHub Actions, Vercel, Vitest, Playwright, React Testing Library, Zod, security-focused review |
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+## How I work
 
-## GitHub pulse
+I combine product thinking, engineering, and interface judgment to move from ambiguous idea to working system. I prefer maintainable architecture, explicit trade-offs, testable claims, privacy-aware defaults, and documentation that helps the next person operate the product—not just admire the code.
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Lingz450&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=FF9F1C&border_color=30363D"
-    alt="Abass's GitHub statistics"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lingz450&layout=compact&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D"
-    alt="Abass's most-used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=Lingz450&theme=transparent&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=00D9FF&fire=FF9F1C&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="Abass's GitHub contribution streak"
-  />
-</p>
+## GitHub activity
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution history" src="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
 
 <div align="center">
-  <h2>Let's build something people will use.</h2>
+  <h2>Build the useful version.</h2>
+  <p>Open to product engineering opportunities, selected builds, technical partnerships, and thoughtful collaborations.</p>
   <p>
-    I'm open to remote roles, contract product builds, technical partnerships, and selected open-source collaborations.
+    <a href="mailto:abassibrahim591@gmail.com?subject=Product%20engineering%20conversation"><strong>Start a conversation</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://abassibrahim.xyz"><strong>Explore my work</strong></a>
   </p>
-  <a href="mailto:abassibrahim591@gmail.com?subject=Let's%20work%20together">
-    <img src="https://img.shields.io/badge/Start_a_conversation-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abass" />
-  </a>
-  <a href="https://www.linkedin.com/in/abass-ibrahim-6a5795194/">
-    <img src="https://img.shields.io/badge/Discuss_an_opportunity-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Abass on LinkedIn" />
-  </a>
-  <br /><br />
-  <strong>From Lagos, building for the world.</strong>
-  <br />
-  <sub>Clean code. Thoughtful design. Real products.</sub>
+  <sub>Lagos, Nigeria · Building with TrustCode System Limited</sub>
 </div>

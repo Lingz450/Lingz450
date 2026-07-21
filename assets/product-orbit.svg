@@ -1,0 +1,27 @@
+<svg width="1200" height="290" viewBox="0 0 1200 290" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Product capability network</title>
+  <desc id="desc">Animated signals connect AI systems, product platforms, commerce operations, and immersive interfaces to shipped outcomes.</desc>
+  <defs>
+    <linearGradient id="rail" x1="100" y1="145" x2="1100" y2="145" gradientUnits="userSpaceOnUse"><stop stop-color="#4DE1FF"/><stop offset=".5" stop-color="#7788FF"/><stop offset="1" stop-color="#EF8CFF"/></linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .panel{fill:#0A1423;stroke:#283B54}.label{fill:#DDEBFA}.sub{fill:#8298B4}.rail{stroke:url(#rail);stroke-opacity:.32}.signal{stroke:url(#rail);stroke-dasharray:4 26;animation:flow 3s linear infinite}.node{animation:breath 3.4s ease-in-out infinite}.n2{animation-delay:-.8s}.n3{animation-delay:-1.6s}.n4{animation-delay:-2.4s}.packet{animation:travel 7s ease-in-out infinite}.packet2{animation-delay:-3.5s}
+      @keyframes flow{to{stroke-dashoffset:-60}}@keyframes breath{50%{opacity:.58}}@keyframes travel{0%{transform:translateX(0)}50%{transform:translateX(950px)}100%{transform:translateX(0)}}
+      @media(prefers-color-scheme:light){.panel{fill:#FFFFFF;stroke:#D2DDEA}.label{fill:#15263D}.sub{fill:#61748C}.rail{stroke-opacity:.24}}
+      @media(prefers-reduced-motion:reduce){.signal,.node,.packet{animation:none!important}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="288" rx="24" class="panel"/>
+  <path d="M125 145H1075" class="rail" stroke-width="2"/>
+  <path d="M125 145H1075" class="signal" stroke-width="3"/>
+  <circle cx="125" cy="145" r="8" fill="#50DFFF" filter="url(#glow)" class="packet"/>
+  <circle cx="125" cy="145" r="5" fill="#EF8CFF" filter="url(#glow)" class="packet packet2"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <g class="node"><circle cx="150" cy="145" r="45" fill="#102638" stroke="#4DDBF7"/><circle cx="150" cy="145" r="32" fill="#4DDBF7" fill-opacity=".1"/><text x="150" y="139" class="label" font-size="16" font-weight="700">AI</text><text x="150" y="160" class="sub" font-size="11">GROUND</text></g>
+    <g class="node n2"><circle cx="450" cy="145" r="45" fill="#171F3D" stroke="#7888FF"/><circle cx="450" cy="145" r="32" fill="#7888FF" fill-opacity=".1"/><text x="450" y="139" class="label" font-size="16" font-weight="700">BUILD</text><text x="450" y="160" class="sub" font-size="11">SYSTEMS</text></g>
+    <g class="node n3"><circle cx="750" cy="145" r="45" fill="#251B3B" stroke="#B77EFF"/><circle cx="750" cy="145" r="32" fill="#B77EFF" fill-opacity=".1"/><text x="750" y="139" class="label" font-size="16" font-weight="700">REFINE</text><text x="750" y="160" class="sub" font-size="11">EXPERIENCE</text></g>
+    <g class="node n4"><circle cx="1050" cy="145" r="45" fill="#311A36" stroke="#EF8CFF"/><circle cx="1050" cy="145" r="32" fill="#EF8CFF" fill-opacity=".1"/><text x="1050" y="139" class="label" font-size="16" font-weight="700">SHIP</text><text x="1050" y="160" class="sub" font-size="11">OUTCOMES</text></g>
+    <text x="600" y="54" class="label" font-size="18" font-weight="700" letter-spacing="2">FROM AMBIGUOUS IDEA TO WORKING PRODUCT</text>
+    <text x="600" y="242" class="sub" font-size="13">product thinking · architecture · intelligence · interface craft · verification</text>
+  </g>
+</svg>
