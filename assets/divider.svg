@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="44" viewBox="0 0 1200 44" fill="none" role="img" aria-labelledby="dv-title">
+  <title id="dv-title">Section divider</title>
+  <defs>
+    <linearGradient id="dv-line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4DE1FF" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#4DE1FF" stop-opacity=".5"/>
+      <stop offset=".5" stop-color="#7788FF" stop-opacity=".6"/>
+      <stop offset=".8" stop-color="#EF8CFF" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#EF8CFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dv-glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="dv-path" d="M24 22 H420 L456 6 H744 L780 38 H1176" fill="none"/>
+    <style>
+      .nA{fill:#4DE1FF}.nB{fill:#7788FF}.nC{fill:#EF8CFF}
+      .dia{stroke:#7788FF}
+      .node{animation:np 3s ease-in-out infinite}
+      .n2{animation-delay:.6s}.n3{animation-delay:1.2s}.n4{animation-delay:1.8s}.n5{animation-delay:2.4s}
+      @keyframes np{0%,100%{opacity:.25}50%{opacity:1}}
+      @media(prefers-color-scheme:light){
+        .nA{fill:#0A6E86}.nB{fill:#3B4CD8}.nC{fill:#A226C4}.dia{stroke:#3B4CD8}
+      }
+      @media(prefers-reduced-motion:reduce){.node{animation:none!important}}
+    </style>
+  </defs>
+
+  <use href="#dv-path" xlink:href="#dv-path" stroke="url(#dv-line)" stroke-width="1.6"/>
+
+  <g>
+    <circle class="node nA"    cx="24"   cy="22" r="2.4"/>
+    <circle class="node n2 nA" cx="420"  cy="22" r="2.4"/>
+    <circle class="node n3 nB" cx="600"  cy="6"  r="2.4"/>
+    <circle class="node n4 nC" cx="780"  cy="38" r="2.4"/>
+    <circle class="node n5 nC" cx="1176" cy="22" r="2.4"/>
+  </g>
+
+  <g transform="translate(600 22)">
+    <path d="M0 -8 L8 0 L0 8 L-8 0 Z" fill="none" class="dia" stroke-width="1.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <circle r="3.2" fill="#4DE1FF" filter="url(#dv-glow)">
+    <animateMotion dur="4.5s" repeatCount="indefinite"><mpath href="#dv-path" xlink:href="#dv-path"/></animateMotion>
+    <animate attributeName="opacity" dur="4.5s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.1;.9;1"/>
+  </circle>
+  <circle r="2.4" fill="#EF8CFF" filter="url(#dv-glow)">
+    <animateMotion dur="4.5s" begin="2.2s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear">
+      <mpath href="#dv-path" xlink:href="#dv-path"/>
+    </animateMotion>
+    <animate attributeName="opacity" dur="4.5s" begin="2.2s" repeatCount="indefinite" values="0;1;1;0" keyTimes="0;.1;.9;1"/>
+  </circle>
+</svg>

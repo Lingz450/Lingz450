@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="420" viewBox="0 0 1200 420" fill="none" role="img" aria-labelledby="bt-title bt-desc">
+  <title id="bt-title">How the work gets built and shipped</title>
+  <desc id="bt-desc">An animated terminal typing out a product engineering profile while a build pipeline resolves dependencies, typechecks, bundles, and deploys to production.</desc>
+  <defs>
+    <linearGradient id="bt-rail" x1="752" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4DE1FF"/><stop offset=".5" stop-color="#7788FF"/><stop offset="1" stop-color="#EF8CFF"/>
+    </linearGradient>
+    <filter id="bt-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="bt-scan" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#4DE1FF" stop-opacity="0"/><stop offset=".5" stop-color="#4DE1FF" stop-opacity=".14"/><stop offset="1" stop-color="#4DE1FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="bt-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BA4C7" stroke-opacity=".1"/></pattern>
+    <clipPath id="bt-screen"><rect x="24" y="70" width="1152" height="330" rx="14"/></clipPath>
+
+    <clipPath id="bt-l1"><rect x="40" y="100" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;196;196;0;0" keyTimes="0;0.019;0.0875;0.969;0.978;1"/></rect></clipPath>
+    <clipPath id="bt-l2"><rect x="40" y="135" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;456;456;0;0" keyTimes="0;0.100;0.181;0.969;0.978;1"/></rect></clipPath>
+    <clipPath id="bt-l3"><rect x="40" y="170" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;512;512;0;0" keyTimes="0;0.194;0.250;0.969;0.978;1"/></rect></clipPath>
+    <clipPath id="bt-l4"><rect x="40" y="205" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;419;419;0;0" keyTimes="0;0.2625;0.3375;0.969;0.978;1"/></rect></clipPath>
+    <clipPath id="bt-l5"><rect x="40" y="240" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;76;76;0;0" keyTimes="0;0.350;0.381;0.969;0.978;1"/></rect></clipPath>
+    <clipPath id="bt-l6"><rect x="40" y="325" height="26" width="0"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;351;351;0;0" keyTimes="0;0.406;0.4875;0.969;0.978;1"/></rect></clipPath>
+
+    <style>
+      .panel{fill:#0A1423;stroke:#283B54}
+      .screen{fill:#070F1C;stroke:#22334A}
+      .rule{stroke:#22334A}
+      .k{fill:#F18BFF}.s{fill:#58E6FF}.p{fill:#EAF4FF}.m{fill:#6E86A5}.v{fill:#7C8CFF}.ok{fill:#56E6A5}
+      .caretfill{fill:#4DE1FF}
+      .steplabel{fill:#94A8C2}
+      .track{fill:#16243A}
+      .badge{fill:#0D2A22;stroke:#56E6A5}
+      .code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:15.5px}
+      .chrome{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px}
+      .caret{animation:blink 1.05s steps(1,end) infinite}
+      @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+      .scan{animation:scan 7s linear infinite}
+      @keyframes scan{0%{transform:translateY(10px)}100%{transform:translateY(400px)}}
+      @media(prefers-color-scheme:light){
+        .panel{fill:#F7FAFF;stroke:#CBD8E8}
+        .screen{fill:#FFFFFF;stroke:#DCE6F2}
+        .rule{stroke:#DCE6F2}
+        .k{fill:#A226C4}.s{fill:#0A6E86}.p{fill:#15263D}.m{fill:#7A8CA3}.v{fill:#3B4CD8}.ok{fill:#0B7A4D}
+        .caretfill{fill:#0A6E86}
+        .steplabel{fill:#52657D}
+        .track{fill:#E4ECF6}
+        .badge{fill:#E6F8F0;stroke:#0B7A4D}
+      }
+      @media(prefers-reduced-motion:reduce){.caret,.scan{animation:none!important}}
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="418" rx="24" class="panel" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="418" rx="24" fill="url(#bt-grid)"/>
+  <rect x="24" y="70" width="1152" height="330" rx="14" class="screen" stroke-width="1.5"/>
+
+  <g>
+    <circle cx="46" cy="40" r="6.5" fill="#FF6B6B"/>
+    <circle cx="68" cy="40" r="6.5" fill="#FFC46B"/>
+    <circle cx="90" cy="40" r="6.5" fill="#56E6A5"/>
+    <text x="116" y="45" class="chrome m">abass@trustcode: ~/build</text>
+    <text x="1176" y="45" class="chrome m" text-anchor="end">node 22 · pnpm</text>
+  </g>
+
+  <path d="M712 86V386" class="rule" stroke-width="1.5"/>
+
+  <g class="code">
+    <g clip-path="url(#bt-l1)">
+      <text x="48" y="120" class="m">01</text>
+      <text x="88" y="120" textLength="140" lengthAdjust="spacing"><tspan class="k">const</tspan><tspan class="p"> abass = {</tspan></text>
+    </g>
+    <g clip-path="url(#bt-l2)">
+      <text x="48" y="155" class="m">02</text>
+      <text x="88" y="155" textLength="400" lengthAdjust="spacing"><tspan class="v">  role</tspan><tspan class="p">: </tspan><tspan class="s">"Full-Stack &amp; AI Product Engineer"</tspan><tspan class="p">,</tspan></text>
+    </g>
+    <g clip-path="url(#bt-l3)">
+      <text x="48" y="190" class="m">03</text>
+      <text x="88" y="190" textLength="456" lengthAdjust="spacing"><tspan class="v">  focus</tspan><tspan class="p">: [</tspan><tspan class="s">"AI systems"</tspan><tspan class="p">, </tspan><tspan class="s">"platforms"</tspan><tspan class="p">, </tspan><tspan class="s">"commerce"</tspan><tspan class="p">],</tspan></text>
+    </g>
+    <g clip-path="url(#bt-l4)">
+      <text x="48" y="225" class="m">04</text>
+      <text x="88" y="225" textLength="363" lengthAdjust="spacing"><tspan class="v">  principle</tspan><tspan class="p">: </tspan><tspan class="s">"ship the useful version"</tspan><tspan class="p">,</tspan></text>
+    </g>
+    <g clip-path="url(#bt-l5)">
+      <text x="48" y="260" class="m">05</text>
+      <text x="88" y="260" textLength="20" lengthAdjust="spacing" class="p">};</text>
+    </g>
+    <g clip-path="url(#bt-l6)">
+      <text x="48" y="345" textLength="335" lengthAdjust="spacing"><tspan class="ok">$</tspan><tspan class="p"> pnpm build </tspan><tspan class="k">&amp;&amp;</tspan><tspan class="p"> vercel deploy </tspan><tspan class="v">--prod</tspan></text>
+    </g>
+
+    <rect class="caret caretfill" x="88" y="105" width="9" height="19">
+      <animate attributeName="x" dur="16s" repeatCount="indefinite"
+        values="88;88;228;88;488;88;544;88;451;88;108;48;383;383;48;48"
+        keyTimes="0;0.019;0.0875;0.0885;0.181;0.182;0.250;0.2515;0.3375;0.3385;0.381;0.3825;0.4875;0.969;0.9695;1"/>
+      <animate attributeName="y" dur="16s" repeatCount="indefinite" calcMode="discrete"
+        values="105;140;175;210;245;330;105;105"
+        keyTimes="0;0.0885;0.182;0.2515;0.3385;0.3825;0.9695;1"/>
+    </rect>
+  </g>
+
+  <g clip-path="url(#bt-screen)">
+    <g class="scan"><rect x="24" y="0" width="1152" height="56" fill="url(#bt-scan)"/></g>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="752" y="112" font-size="12" letter-spacing="2.4" class="m">BUILD PIPELINE</text>
+
+    <g font-size="14">
+      <g>
+        <circle cx="760" cy="152" r="9" fill="none" stroke="#56E6A5" stroke-opacity=".35"/>
+        <path d="M755.5 152l3.2 3.4 6.2-7" fill="none" stroke="#56E6A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+          <animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" values="16;16;0;0;16;16" keyTimes="0;0.50;0.53;0.969;0.978;1"/>
+        </path>
+        <text x="784" y="157" class="steplabel" fill-opacity=".4">resolve dependencies
+          <animate attributeName="fill-opacity" dur="16s" repeatCount="indefinite" values=".4;.4;1;1;.4;.4" keyTimes="0;0.50;0.53;0.969;0.978;1"/>
+        </text>
+      </g>
+      <g>
+        <circle cx="760" cy="197" r="9" fill="none" stroke="#56E6A5" stroke-opacity=".35"/>
+        <path d="M755.5 197l3.2 3.4 6.2-7" fill="none" stroke="#56E6A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+          <animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" values="16;16;0;0;16;16" keyTimes="0;0.57;0.60;0.969;0.978;1"/>
+        </path>
+        <text x="784" y="202" class="steplabel" fill-opacity=".4">typecheck · unit tests
+          <animate attributeName="fill-opacity" dur="16s" repeatCount="indefinite" values=".4;.4;1;1;.4;.4" keyTimes="0;0.57;0.60;0.969;0.978;1"/>
+        </text>
+      </g>
+      <g>
+        <circle cx="760" cy="242" r="9" fill="none" stroke="#56E6A5" stroke-opacity=".35"/>
+        <path d="M755.5 242l3.2 3.4 6.2-7" fill="none" stroke="#56E6A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+          <animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" values="16;16;0;0;16;16" keyTimes="0;0.65;0.68;0.969;0.978;1"/>
+        </path>
+        <text x="784" y="247" class="steplabel" fill-opacity=".4">bundle · optimise assets
+          <animate attributeName="fill-opacity" dur="16s" repeatCount="indefinite" values=".4;.4;1;1;.4;.4" keyTimes="0;0.65;0.68;0.969;0.978;1"/>
+        </text>
+      </g>
+      <g>
+        <circle cx="760" cy="287" r="9" fill="none" stroke="#56E6A5" stroke-opacity=".35"/>
+        <path d="M755.5 287l3.2 3.4 6.2-7" fill="none" stroke="#56E6A5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+          <animate attributeName="stroke-dashoffset" dur="16s" repeatCount="indefinite" values="16;16;0;0;16;16" keyTimes="0;0.74;0.77;0.969;0.978;1"/>
+        </path>
+        <text x="784" y="292" class="steplabel" fill-opacity=".4">deploy to edge network
+          <animate attributeName="fill-opacity" dur="16s" repeatCount="indefinite" values=".4;.4;1;1;.4;.4" keyTimes="0;0.74;0.77;0.969;0.978;1"/>
+        </text>
+      </g>
+    </g>
+
+    <rect x="752" y="322" width="388" height="8" rx="4" class="track"/>
+    <rect x="752" y="322" width="0" height="8" rx="4" fill="url(#bt-rail)">
+      <animate attributeName="width" dur="16s" repeatCount="indefinite"
+        values="0;0;97;97;194;194;291;291;388;388;0;0"
+        keyTimes="0;0.49;0.52;0.56;0.59;0.64;0.67;0.73;0.79;0.969;0.978;1"/>
+    </rect>
+
+    <g opacity="0">
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;0.80;0.83;0.969;0.978;1"/>
+      <rect x="752" y="352" width="132" height="34" rx="17" class="badge" stroke-width="1.5"/>
+      <circle cx="774" cy="369" r="5" fill="#56E6A5" filter="url(#bt-glow)"/>
+      <text x="790" y="374" font-size="13" letter-spacing="1.6" class="ok">DEPLOYED</text>
+      <text x="900" y="374" font-size="13" class="m" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">1.4s · production</text>
+    </g>
+  </g>
+</svg>

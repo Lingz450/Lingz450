@@ -26,7 +26,7 @@
   <a href="mailto:abassibrahim591@gmail.com">Email</a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Building now
 
@@ -114,6 +114,10 @@
 
 ## Selected toolkit
 
+<div align="center">
+  <img src="./assets/stack-constellation.svg" width="100%" alt="Animated constellation of the interface, API, and AI technologies used in current work" />
+</div>
+
 | Area | Technologies used in current work |
 | --- | --- |
 | Product interfaces | TypeScript, React, Next.js, Tailwind CSS, Framer Motion, Three.js, React Three Fiber, Zustand, TanStack Query |
@@ -126,6 +130,10 @@
 
 I combine product thinking, engineering, and interface judgment to move from ambiguous idea to working system. I prefer maintainable architecture, explicit trade-offs, testable claims, privacy-aware defaults, and documentation that helps the next person operate the product—not just admire the code.
 
+<div align="center">
+  <img src="./assets/build-terminal.svg" width="100%" alt="Animated terminal typing a product engineering profile beside a build pipeline resolving, typechecking, bundling, and deploying" />
+</div>
+
 ## GitHub activity
 
 <picture>
@@ -134,7 +142,7 @@ I combine product thinking, engineering, and interface judgment to move from amb
   <img alt="Animated GitHub contribution history" src="https://raw.githubusercontent.com/Lingz450/Lingz450/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
   <h2>Build the useful version.</h2>
