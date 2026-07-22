@@ -1,59 +1,165 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Abass Ibrahim — Full-Stack and AI Product Engineer</title>
-  <desc id="desc">An animated systems interface connecting product engineering, artificial intelligence, commerce, and immersive experiences.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="430" viewBox="0 0 1200 430" fill="none" role="img" aria-labelledby="hs-title hs-desc">
+  <title id="hs-title">Abass Ibrahim — Full-Stack and AI Product Engineer</title>
+  <desc id="hs-desc">An animated systems interface connecting product engineering, artificial intelligence, commerce, and immersive experiences.</desc>
   <defs>
-    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="410" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hs-bg" x1="40" y1="20" x2="1160" y2="410" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/><stop offset=".5" stop-color="#0B1424"/><stop offset="1" stop-color="#120C20"/>
     </linearGradient>
-    <linearGradient id="line" x1="146" y1="90" x2="1050" y2="340" gradientUnits="userSpaceOnUse">
+    <linearGradient id="hs-line" x1="146" y1="90" x2="1050" y2="340" gradientUnits="userSpaceOnUse">
       <stop stop-color="#58E6FF"/><stop offset=".5" stop-color="#7C8CFF"/><stop offset="1" stop-color="#F18BFF"/>
     </linearGradient>
-    <radialGradient id="aura"><stop stop-color="#55DFFF" stop-opacity=".35"/><stop offset="1" stop-color="#55DFFF" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BA4C7" stroke-opacity=".1"/></pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="hs-head" x1="54" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EAF4FF"/><stop offset=".55" stop-color="#C6DBFF"/><stop offset="1" stop-color="#A5BAFF"/>
+    </linearGradient>
+    <linearGradient id="hs-head-l" x1="54" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#102039"/><stop offset=".55" stop-color="#1B3A63"/><stop offset="1" stop-color="#3B4CD8"/>
+    </linearGradient>
+    <radialGradient id="hs-aura"><stop stop-color="#55DFFF" stop-opacity=".35"/><stop offset="1" stop-color="#55DFFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="hs-aura2"><stop stop-color="#F18BFF" stop-opacity=".26"/><stop offset="1" stop-color="#F18BFF" stop-opacity="0"/></radialGradient>
+    <pattern id="hs-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BA4C7" stroke-opacity=".1"/></pattern>
+    <filter id="hs-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="hs-soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="46"/></filter>
+    <linearGradient id="hs-beam" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#58E6FF" stop-opacity="0"/><stop offset=".5" stop-color="#AEEEFF" stop-opacity=".5"/><stop offset="1" stop-color="#58E6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hs-shine" x1="0" y1="0" x2="200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000"/><stop offset=".42" stop-color="#fff"/><stop offset=".58" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;760 0;760 0" keyTimes="0;.45;1" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <mask id="hs-shinemask"><rect x="0" y="160" width="700" height="130" fill="url(#hs-shine)"/></mask>
+    <clipPath id="hs-panel"><rect x="1" y="1" width="1198" height="428" rx="28"/></clipPath>
+    <path id="hs-ring" d="M735 215 a195 150 0 1 0 390 0 a195 150 0 1 0 -390 0" fill="none"/>
+
     <style>
-      .bg{fill:url(#bg)}.frame{stroke:#26374F}.copy{fill:#EAF4FF}.muted{fill:#94A8C2}.chip{fill:#0D1A2A;stroke:#30445E}.grid{opacity:.8}
-      .aurora{animation:drift 9s ease-in-out infinite alternate}.orbit{transform-origin:930px 215px;animation:spin 18s linear infinite}.packet{stroke-dasharray:3 20;animation:flow 2.8s linear infinite}.float{animation:float 4s ease-in-out infinite}.blink{animation:blink 1.4s steps(2,end) infinite}.pulse{transform-origin:center;animation:pulse 2.6s ease-out infinite}.reveal{animation:reveal 1.2s ease-out both}
-      @keyframes drift{to{transform:translate(85px,-18px) scale(1.08)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-46}}@keyframes float{50%{transform:translateY(-8px)}}@keyframes blink{50%{opacity:.18}}@keyframes pulse{70%,100%{transform:scale(1.7);opacity:0}}@keyframes reveal{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-      @media(prefers-color-scheme:light){.bg{fill:#F7FAFF}.frame{stroke:#CBD8E8}.copy{fill:#102039}.muted{fill:#52657D}.chip{fill:#FFFFFF;stroke:#CFDAE8}.grid{opacity:.45}}
-      @media(prefers-reduced-motion:reduce){.aurora,.orbit,.packet,.float,.blink,.pulse,.reveal{animation:none!important}}
+      .bg{fill:url(#hs-bg)}.frame{stroke:#26374F}.copy{fill:url(#hs-head)}.muted{fill:#94A8C2}
+      .chip{fill:#0D1A2A;stroke:#30445E}.chiptext{fill:#94A8C2}.kicker{fill:#63DEFF}.ringline{stroke:#8BA4C7;stroke-opacity:.22}
+      .aurora{animation:drift 12s ease-in-out infinite alternate}
+      .aurora2{animation:drift2 16s ease-in-out infinite alternate}
+      @keyframes drift{to{transform:translate(70px,-16px) scale(1.08)}}
+      @keyframes drift2{to{transform:translate(-56px,20px) scale(1.06)}}
+      .gridslide{animation:gridslide 10s linear infinite}
+      @keyframes gridslide{from{transform:translate(0,0)}to{transform:translate(-32px,-32px)}}
+      .beam{animation:beam 8s cubic-bezier(.5,0,.5,1) infinite}
+      @keyframes beam{0%{transform:translateX(-360px);opacity:0}12%{opacity:1}88%{opacity:1}100%{transform:translateX(1360px);opacity:0}}
+      .float{animation:float 5s ease-in-out infinite}
+      @keyframes float{50%{transform:translateY(-9px)}}
+      .blink{animation:blink 1.4s steps(2,end) infinite}
+      @keyframes blink{50%{opacity:.18}}
+      .pulse{transform-origin:center;animation:pulse 2.6s ease-out infinite}
+      @keyframes pulse{70%,100%{transform:scale(1.7);opacity:0}}
+      .reveal{animation:reveal 1.2s ease-out both}
+      @keyframes reveal{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+      .rotline{opacity:0;animation:rot 18s ease-in-out infinite backwards}
+      .q2{animation-delay:4.5s}.q3{animation-delay:9s}.q4{animation-delay:13.5s}
+      @keyframes rot{0%{opacity:0;transform:translateY(7px)}2%{opacity:1;transform:translateY(0)}22%{opacity:1;transform:translateY(0)}25%{opacity:0;transform:translateY(-7px)}100%{opacity:0;transform:translateY(-7px)}}
+      .gA,.gB{opacity:0}
+      .gA{animation:glA 8s steps(1,end) infinite}.gB{animation:glB 8s steps(1,end) infinite}
+      @keyframes glA{0%,88%,100%{opacity:0;transform:translate(0,0)}89%{opacity:.7;transform:translate(-4px,-2px)}91%{opacity:0;transform:translate(0,0)}94%{opacity:.55;transform:translate(3px,2px)}96%{opacity:0;transform:translate(0,0)}}
+      @keyframes glB{0%,88%,100%{opacity:0;transform:translate(0,0)}90%{opacity:.6;transform:translate(4px,2px)}92%{opacity:0;transform:translate(0,0)}95%{opacity:.45;transform:translate(-3px,-2px)}97%{opacity:0;transform:translate(0,0)}}
+      .tw{animation:tw 3.6s ease-in-out infinite}.tw2{animation-delay:1.2s}.tw3{animation-delay:2.4s}
+      @keyframes tw{0%,100%{opacity:.12}50%{opacity:.7}}
+      .packet{stroke-dasharray:3 20;animation:flow 2.8s linear infinite}
+      @keyframes flow{to{stroke-dashoffset:-46}}
+      @media(prefers-color-scheme:light){
+        .bg{fill:#F7FAFF}.frame{stroke:#CBD8E8}.copy{fill:url(#hs-head-l)}.muted{fill:#52657D}
+        .chip{fill:#FFFFFF;stroke:#CFDAE8}.chiptext{fill:#52657D}.kicker{fill:#0A6E86}.ringline{stroke:#5B7392;stroke-opacity:.3}
+      }
+      @media(prefers-reduced-motion:reduce){
+        .aurora,.aurora2,.gridslide,.beam,.float,.blink,.pulse,.reveal,.packet,.tw,.gA,.gB{animation:none!important}
+        .rotline{animation:none!important;opacity:0}.q1{opacity:1}
+      }
     </style>
   </defs>
-  <rect x="1" y="1" width="1198" height="428" rx="28" class="bg frame"/>
-  <rect x="1" y="1" width="1198" height="428" rx="28" fill="url(#grid)" class="grid"/>
-  <circle cx="830" cy="105" r="255" fill="url(#aura)" class="aurora"/>
-  <path d="M0 350C190 300 320 402 515 340S840 292 1200 350V430H0Z" fill="#6879FF" fill-opacity=".06"/>
 
-  <g class="reveal">
-    <rect x="54" y="48" width="138" height="32" rx="16" class="chip"/>
-    <circle cx="74" cy="64" r="5" fill="#56E6A5"/><circle cx="74" cy="64" r="5" fill="none" stroke="#56E6A5" class="pulse"/>
-    <text x="88" y="69" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.4" class="muted">SYSTEM ONLINE</text>
-    <text x="54" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3" fill="#63DEFF">ABASS IBRAHIM</text>
-    <text x="54" y="211" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" class="copy">Full-Stack &amp; AI</text>
-    <text x="54" y="265" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" class="copy">Product Engineer<tspan class="blink" fill="#69E4FF">_</tspan></text>
-    <text x="56" y="310" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" class="muted">Design → architecture → intelligence → production</text>
-    <text x="56" y="366" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" fill="#90A7C3">LAGOS, NG  /  TRUSTCODE SYSTEM LIMITED</text>
-  </g>
+  <g clip-path="url(#hs-panel)">
+    <rect x="1" y="1" width="1198" height="428" rx="28" class="bg frame" stroke-width="2"/>
+    <g class="gridslide"><rect x="-40" y="-40" width="1280" height="510" fill="url(#hs-grid)"/></g>
+    <circle class="aurora" cx="830" cy="105" r="255" fill="url(#hs-aura)"/>
+    <ellipse class="aurora2" cx="300" cy="330" rx="260" ry="160" fill="url(#hs-aura2)" filter="url(#hs-soft)"/>
+    <path d="M0 350C190 300 320 402 515 340S840 292 1200 350V430H0Z" fill="#6879FF" fill-opacity=".06"/>
 
-  <g class="float">
-    <circle cx="930" cy="215" r="121" fill="#101D31" fill-opacity=".68" stroke="#536985" stroke-opacity=".5"/>
-    <circle cx="930" cy="215" r="87" fill="#0B1626" stroke="url(#line)" stroke-width="2" stroke-opacity=".65"/>
-    <g class="orbit">
-      <circle cx="930" cy="94" r="6" fill="#62E4FF" filter="url(#glow)"/>
-      <circle cx="1035" cy="274" r="5" fill="#F18BFF" filter="url(#glow)"/>
-      <circle cx="834" cy="289" r="5" fill="#7C8CFF" filter="url(#glow)"/>
+    <g fill="#9FD8FF">
+      <circle class="tw"  cx="150"  cy="86"  r="1.6"/>
+      <circle class="tw2" cx="470"  cy="60"  r="1.3"/>
+      <circle class="tw3" cx="660"  cy="392" r="1.5"/>
+      <circle class="tw"  cx="1150" cy="380" r="1.4"/>
     </g>
-    <path d="M888 207C888 177 905 158 930 158C955 158 972 177 972 207V253C972 261 962 265 956 260L944 250L932 261C928 265 922 265 918 261L906 250L894 260C888 265 880 261 880 253V207C880 177 900 158 930 158Z" fill="url(#line)" filter="url(#glow)"/>
-    <ellipse cx="913" cy="207" rx="6" ry="9" fill="#091321"/><ellipse cx="947" cy="207" rx="6" ry="9" fill="#091321"/>
-    <path d="M918 229C925 236 936 236 943 229" stroke="#091321" stroke-width="4" stroke-linecap="round"/>
-  </g>
 
-  <path d="M687 112C750 112 755 155 815 155" stroke="url(#line)" stroke-width="2" stroke-opacity=".45" class="packet"/>
-  <path d="M687 325C760 325 763 280 820 280" stroke="url(#line)" stroke-width="2" stroke-opacity=".45" class="packet"/>
-  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">
-    <rect x="1017" y="103" width="128" height="32" rx="16" class="chip"/><text x="1036" y="124" class="muted">AI SYSTEMS</text>
-    <rect x="1027" y="295" width="118" height="32" rx="16" class="chip"/><text x="1046" y="316" class="muted">COMMERCE</text>
-    <rect x="746" y="74" width="112" height="32" rx="16" class="chip"/><text x="765" y="95" class="muted">PLATFORMS</text>
-    <rect x="724" y="339" width="134" height="32" rx="16" class="chip"/><text x="743" y="360" class="muted">IMMERSIVE UI</text>
+    <g class="beam"><rect x="-70" y="0" width="140" height="430" fill="url(#hs-beam)"/></g>
+
+    <g class="reveal">
+      <rect x="54" y="48" width="138" height="32" rx="16" class="chip"/>
+      <circle cx="74" cy="64" r="5" fill="#56E6A5"/><circle cx="74" cy="64" r="5" fill="none" stroke="#56E6A5" class="pulse"/>
+      <text x="88" y="69" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1.4" class="chiptext">SYSTEM ONLINE</text>
+
+      <text x="54" y="150" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3" class="kicker">ABASS IBRAHIM</text>
+
+      <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="750">
+        <text class="gA" x="54" y="211" fill="#58E6FF">Full-Stack &amp; AI</text>
+        <text class="gB" x="54" y="211" fill="#F18BFF">Full-Stack &amp; AI</text>
+        <text x="54" y="211" class="copy">Full-Stack &amp; AI</text>
+        <text class="gA" x="54" y="265" fill="#58E6FF">Product Engineer</text>
+        <text class="gB" x="54" y="265" fill="#F18BFF">Product Engineer</text>
+        <text x="54" y="265" class="copy">Product Engineer<tspan class="blink" fill="#69E4FF">_</tspan></text>
+        <g mask="url(#hs-shinemask)" opacity=".5" fill="#FFFFFF">
+          <text x="54" y="211">Full-Stack &amp; AI</text>
+          <text x="54" y="265">Product Engineer</text>
+        </g>
+      </g>
+
+      <text x="56" y="366" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" class="muted">LAGOS, NG  /  TRUSTCODE SYSTEM LIMITED</text>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" class="muted">
+      <text class="rotline q1" x="56" y="310">Design → architecture → intelligence → production</text>
+      <text class="rotline q2" x="56" y="310">AI workspaces, agents, and retrieval systems</text>
+      <text class="rotline q3" x="56" y="310">Commerce platforms and operational tooling</text>
+      <text class="rotline q4" x="56" y="310">Immersive interfaces with motion and 3D</text>
+    </g>
+
+    <path d="M687 112C750 112 755 155 815 155" stroke="url(#hs-line)" stroke-width="2" stroke-opacity=".45" class="packet"/>
+    <path d="M687 325C760 325 763 280 820 280" stroke="url(#hs-line)" stroke-width="2" stroke-opacity=".45" class="packet"/>
+
+    <use href="#hs-ring" xlink:href="#hs-ring" class="ringline" stroke-width="1.5"/>
+
+    <g class="float">
+      <circle cx="930" cy="215" r="121" fill="#101D31" fill-opacity=".68" stroke="#536985" stroke-opacity=".5"/>
+      <circle cx="930" cy="215" r="87" fill="#0B1626" stroke="url(#hs-line)" stroke-width="2" stroke-opacity=".65"/>
+      <path d="M888 207C888 177 905 158 930 158C955 158 972 177 972 207V253C972 261 962 265 956 260L944 250L932 261C928 265 922 265 918 261L906 250L894 260C888 265 880 261 880 253V207C880 177 900 158 930 158Z" fill="url(#hs-line)" filter="url(#hs-glow)"/>
+      <ellipse cx="913" cy="207" rx="6" ry="9" fill="#091321">
+        <animate attributeName="ry" dur="5.4s" repeatCount="indefinite" values="9;9;9;1;9;9" keyTimes="0;.62;.65;.67;.70;1"/>
+      </ellipse>
+      <ellipse cx="947" cy="207" rx="6" ry="9" fill="#091321">
+        <animate attributeName="ry" dur="5.4s" repeatCount="indefinite" values="9;9;9;1;9;9" keyTimes="0;.62;.65;.67;.70;1"/>
+      </ellipse>
+      <path d="M918 229C925 236 936 236 943 229" stroke="#091321" stroke-width="4" stroke-linecap="round"/>
+    </g>
+
+    <circle r="3" fill="#58E6FF" filter="url(#hs-glow)">
+      <animateMotion dur="7s" repeatCount="indefinite"><mpath href="#hs-ring" xlink:href="#hs-ring"/></animateMotion>
+    </circle>
+
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1">
+      <g>
+        <animateMotion dur="24s" repeatCount="indefinite"><mpath href="#hs-ring" xlink:href="#hs-ring"/></animateMotion>
+        <animate attributeName="opacity" dur="24s" repeatCount="indefinite" values=".8;.42;.8;1;.8" keyTimes="0;.25;.5;.75;1"/>
+        <rect x="-64" y="-16" width="128" height="32" rx="16" class="chip"/><text x="0" y="5" text-anchor="middle" class="chiptext">AI SYSTEMS</text>
+      </g>
+      <g>
+        <animateMotion dur="24s" begin="-6s" repeatCount="indefinite"><mpath href="#hs-ring" xlink:href="#hs-ring"/></animateMotion>
+        <animate attributeName="opacity" dur="24s" begin="-6s" repeatCount="indefinite" values=".8;.42;.8;1;.8" keyTimes="0;.25;.5;.75;1"/>
+        <rect x="-59" y="-16" width="118" height="32" rx="16" class="chip"/><text x="0" y="5" text-anchor="middle" class="chiptext">COMMERCE</text>
+      </g>
+      <g>
+        <animateMotion dur="24s" begin="-12s" repeatCount="indefinite"><mpath href="#hs-ring" xlink:href="#hs-ring"/></animateMotion>
+        <animate attributeName="opacity" dur="24s" begin="-12s" repeatCount="indefinite" values=".8;.42;.8;1;.8" keyTimes="0;.25;.5;.75;1"/>
+        <rect x="-56" y="-16" width="112" height="32" rx="16" class="chip"/><text x="0" y="5" text-anchor="middle" class="chiptext">PLATFORMS</text>
+      </g>
+      <g>
+        <animateMotion dur="24s" begin="-18s" repeatCount="indefinite"><mpath href="#hs-ring" xlink:href="#hs-ring"/></animateMotion>
+        <animate attributeName="opacity" dur="24s" begin="-18s" repeatCount="indefinite" values=".8;.42;.8;1;.8" keyTimes="0;.25;.5;.75;1"/>
+        <rect x="-67" y="-16" width="134" height="32" rx="16" class="chip"/><text x="0" y="5" text-anchor="middle" class="chiptext">IMMERSIVE UI</text>
+      </g>
+    </g>
   </g>
 </svg>
