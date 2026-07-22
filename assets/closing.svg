@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" fill="none" role="img" aria-labelledby="cl-title cl-desc">
+  <title id="cl-title">Build the useful version</title>
+  <desc id="cl-desc">Open to product engineering opportunities, selected product builds, technical partnerships, and thoughtful collaborations.</desc>
+  <defs>
+    <linearGradient id="cl-head" x1="360" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4DE1FF"/><stop offset=".5" stop-color="#7788FF"/><stop offset="1" stop-color="#EF8CFF"/>
+    </linearGradient>
+    <linearGradient id="cl-head-l" x1="360" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A6E86"/><stop offset=".5" stop-color="#3B4CD8"/><stop offset="1" stop-color="#A226C4"/>
+    </linearGradient>
+    <linearGradient id="cl-w1" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4DE1FF" stop-opacity="0"/><stop offset=".5" stop-color="#4DE1FF" stop-opacity=".45"/><stop offset="1" stop-color="#4DE1FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cl-w2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7788FF" stop-opacity="0"/><stop offset=".5" stop-color="#7788FF" stop-opacity=".4"/><stop offset="1" stop-color="#EF8CFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="cl-halo" cx=".5" cy=".5" r=".5">
+      <stop stop-color="#55DFFF" stop-opacity=".3"/><stop offset="1" stop-color="#55DFFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="cl-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8BA4C7" stroke-opacity=".1"/></pattern>
+    <filter id="cl-blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="42"/></filter>
+    <filter id="cl-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="cl-panel"><rect x="1" y="1" width="1198" height="258" rx="24"/></clipPath>
+
+    <style>
+      .panel{fill:#0A1423;stroke:#283B54}
+      .head{fill:url(#cl-head);font-family:Inter,Segoe UI,Arial,sans-serif;font-size:38px;font-weight:750}
+      .rot{fill:#8298B4;font-family:Inter,Segoe UI,Arial,sans-serif;font-size:16px}
+      .chip{fill:#0D2A22;stroke:#56E6A5}
+      .chiptext{fill:#8FE9C4}
+      .accent{stroke:url(#cl-head)}
+
+      .wave1{animation:flow1 12s linear infinite}
+      .wave2{animation:flow2 16s linear infinite}
+      @keyframes flow1{from{transform:translateX(0)}to{transform:translateX(-250px)}}
+      @keyframes flow2{from{transform:translateX(0)}to{transform:translateX(250px)}}
+
+      .halo{animation:halo 7s ease-in-out infinite}
+      @keyframes halo{0%,100%{opacity:.5}50%{opacity:1}}
+
+      .live{animation:live 2s ease-in-out infinite}
+      @keyframes live{0%,100%{opacity:1}50%{opacity:.2}}
+
+      .rotline{opacity:0;animation:rot 16s ease-in-out infinite backwards}
+      .r2{animation-delay:4s}.r3{animation-delay:8s}.r4{animation-delay:12s}
+      @keyframes rot{
+        0%{opacity:0;transform:translateY(8px)}
+        2%{opacity:1;transform:translateY(0)}
+        22%{opacity:1;transform:translateY(0)}
+        25%{opacity:0;transform:translateY(-8px)}
+        100%{opacity:0;transform:translateY(-8px)}
+      }
+
+      .shine{animation:shine 6s ease-in-out infinite}
+      @keyframes shine{0%{transform:translateX(-120px);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateX(120px);opacity:0}}
+
+      @media(prefers-color-scheme:light){
+        .panel{fill:#FFFFFF;stroke:#D2DDEA}
+        .head{fill:url(#cl-head-l)}
+        .rot{fill:#61748C}
+        .chip{fill:#E6F8F0;stroke:#0B7A4D}
+        .chiptext{fill:#0B7A4D}
+        .accent{stroke:url(#cl-head-l)}
+      }
+      @media(prefers-reduced-motion:reduce){
+        .wave1,.wave2,.halo,.live,.shine{animation:none!important}
+        .rotline{animation:none!important;opacity:0}
+        .r1{opacity:1}
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#cl-panel)">
+    <rect x="1" y="1" width="1198" height="258" rx="24" class="panel" stroke-width="2"/>
+    <rect x="1" y="1" width="1198" height="258" rx="24" fill="url(#cl-grid)"/>
+    <ellipse class="halo" cx="600" cy="120" rx="360" ry="120" fill="url(#cl-halo)" filter="url(#cl-blur)"/>
+
+    <g class="wave1">
+      <path d="M-500 214 q 62.5 -22 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0"
+            fill="none" stroke="url(#cl-w1)" stroke-width="2"/>
+    </g>
+    <g class="wave2">
+      <path d="M-500 232 q 62.5 20 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0 t 125 0"
+            fill="none" stroke="url(#cl-w2)" stroke-width="2"/>
+    </g>
+
+    <g text-anchor="middle">
+      <g>
+        <rect x="530" y="38" width="140" height="30" rx="15" class="chip" stroke-width="1.5"/>
+        <circle class="live" cx="552" cy="53" r="4.5" fill="#56E6A5" filter="url(#cl-glow)"/>
+        <text x="608" y="58" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="1.6" class="chiptext">OPEN TO WORK</text>
+      </g>
+
+      <text x="600" y="134" class="head">Build the useful version.</text>
+
+      <g>
+        <path d="M520 152 H680" class="accent" stroke-width="2" stroke-linecap="round" stroke-opacity=".5"/>
+        <g class="shine">
+          <path d="M572 152 H628" class="accent" stroke-width="3" stroke-linecap="round"/>
+        </g>
+      </g>
+
+      <g class="rot">
+        <text class="rotline r1" x="600" y="190">Open to product engineering opportunities</text>
+        <text class="rotline r2" x="600" y="190">Open to selected product builds</text>
+        <text class="rotline r3" x="600" y="190">Open to technical partnerships</text>
+        <text class="rotline r4" x="600" y="190">Open to thoughtful collaborations</text>
+      </g>
+    </g>
+  </g>
+</svg>

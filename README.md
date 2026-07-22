@@ -145,8 +145,10 @@ I combine product thinking, engineering, and interface judgment to move from amb
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <h2>Build the useful version.</h2>
-  <p>Open to product engineering opportunities, selected builds, technical partnerships, and thoughtful collaborations.</p>
+  <img src="./assets/closing.svg" width="100%" alt="Build the useful version — open to product engineering opportunities, selected product builds, technical partnerships, and thoughtful collaborations" />
+</div>
+
+<div align="center">
   <p>
     <a href="mailto:abassibrahim591@gmail.com?subject=Product%20engineering%20conversation"><strong>Start a conversation</strong></a>
     &nbsp;·&nbsp;
